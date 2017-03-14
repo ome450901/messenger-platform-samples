@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "810b32a3abfbde4e52ec6ff58f41ec1c",
+    "pageAccessToken": "EAAYgZAVSqh7ABAAhpxBKqcrS8seus1PeslK1ZCKTNDneuZBpmXkaNsYjBOerX4wftWcKgLqb78ZAxHuLwNZBg5ZCiSw1kEHN9AC0ZA9rZCEA11iAv9ZAXZCRh5Ez8JtxEXUjwKtGUGZAJyZAT8DseVPUIckGguatzrsBQ38xUCLpcGwPmgZDZD",
+    "validationToken": "testtoken",
+    "serverURL": "www.google.com.tw"
 }
